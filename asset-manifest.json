@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/k7sme/static/css/main.c3c3a860.css",
+    "main.js": "/k7sme/static/js/main.6d61ab94.js",
+    "index.html": "/k7sme/index.html",
+    "main.c3c3a860.css.map": "/k7sme/static/css/main.c3c3a860.css.map",
+    "main.6d61ab94.js.map": "/k7sme/static/js/main.6d61ab94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3c3a860.css",
+    "static/js/main.6d61ab94.js"
+  ]
+}
