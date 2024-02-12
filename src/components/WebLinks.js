@@ -11,7 +11,7 @@ const Links = () => {
             <TopPart>
                 <LinkHeader>
                     <Title>
-                        <h1>Hey you!</h1>
+                        <h1>Hello</h1>
                     </Title>
                 </LinkHeader>
 
@@ -102,7 +102,6 @@ const Title = styled.div`
     h1{
       font-size: 3.5rem;
       font-weight: 700;
-      
       letter-spacing: -2px;
       background: linear-gradient(90deg, #4AB1F1 5.71%, #566CEC 33.77%, #D749AF 61.82%, #FF7C51 91.21%);
       -webkit-background-clip: text;
